@@ -7,9 +7,21 @@ function agregarNombre(){
         alert('Por favor, ingrese un nombre')
     } else {
         listaDeNombres.push(nombres);
-    } limpiarCampo();
+        actualizarLista()
+    } 
+    limpiarCampo();
 }
 
 function limpiarCampo(){
     document.querySelector('#amigo').value='';
+}
+
+function actualizarLista() {
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    for (let nombre of listaDeNombres) {
+        const item = document.createElement('li');
+        item.textContent = nombre;
+        lista.appendChild(item);
+    }
 }
