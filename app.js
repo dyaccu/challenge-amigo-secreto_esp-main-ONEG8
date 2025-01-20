@@ -35,4 +35,7 @@ function sortearAmigo() {
     const nombreSorteado = listaDeNombres[indiceAleatorio];
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `<li>El amigo secreto es: <strong>${nombreSorteado}</strong></li>`;
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    listaDeNombres = [];
 }
