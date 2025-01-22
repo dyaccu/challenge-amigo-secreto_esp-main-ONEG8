@@ -10,7 +10,7 @@
 4. [Instalación y Configuración](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#%EF%B8%8F-instalaci%C3%B3n-y-configuraci%C3%B3n)
 5. [Uso del Proyecto](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-uso-del-proyecto)
 6. [Contribución](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-contribuci%C3%B3n)
-7. [Insignia](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-insignia)
+7. [Insignia](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#%EF%B8%8F-insignia)
 
 ---
 
