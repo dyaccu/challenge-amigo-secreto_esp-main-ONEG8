@@ -4,13 +4,13 @@
 
 ## 📋 Tabla de Contenidos
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Características](#características)
-3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-4. [Instalación y Configuración](#instalación-y-configuración)
-5. [Uso del Proyecto](#uso-del-proyecto)
-6. [Contribución](#contribución)
-7. [Licencia](#licencia)
+1. [Descripción del Proyecto](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-descripci%C3%B3n-del-proyecto)
+2. [Características](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-caracter%C3%ADsticas)
+3. [Tecnologías Utilizadas](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#%EF%B8%8F-tecnolog%C3%ADas-utilizadas)
+4. [Instalación y Configuración](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#%EF%B8%8F-instalaci%C3%B3n-y-configuraci%C3%B3n)
+5. [Uso del Proyecto](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-uso-del-proyecto)
+6. [Contribución](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-contribuci%C3%B3n)
+7. [Insignia](https://github.com/dyaccu/challenge-amigo-secreto_esp-main-ONEG8/blob/main/readme.md#-insignia)
 
 ---
 
@@ -89,6 +89,8 @@ Este proyecto permite agregar nombres a una lista, visualizarlos dinámicamente 
 
 ---
 
-## 📄 Licencia
+## 🛡️ Insignia
 
-Este proyecto está bajo la Licencia ONEG8. Consulta el archivo [LICENSE](ONEG8) para más detalles.
+La realización y entrega de este proyecto otorgó una exclusiva insignia:
+
+![Badge Challenge Amigo secreto - Alura](https://github.com/user-attachments/assets/3ccd7126-3c0c-4545-935b-787a1a6280fd)
